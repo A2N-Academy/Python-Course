@@ -1,1 +1,2 @@
-# Python-Course
+[Python course](https://www.a2nacademy.com/course/python-course
+): Python is a popular high-level, open-source programming language that is widely used in a range of applications like automation, data science, big data, and Data Analytics development of games and web applications. This highly flexible and scalable interpreted and object-oriented language is highly trending and providing high job opportunities. Join the course today and footstep in the IT industry with highly trending IT skills.# Python-Course
